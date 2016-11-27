@@ -1,0 +1,64 @@
+[
+    {
+        "title": "The Tragedy of Romeo and Juliet", 
+        "thumbnail": "https://tse3.mm.bing.net/th?id=OIP.M185cad254409002e61ccd1045c347ba3H0&pid=Api",
+        "description": "This is a description 1",
+        "bookLink": "http://www.gutenberg.org/cache/epub/1112/pg1112.html",
+        "year": 1595
+    },
+    {
+        "title": "Hamlet, Prince of Denmark", 
+        "thumbnail": "https://tse4.mm.bing.net/th?id=OIP.M8074562e471ebb60ec5613a7da588015o0&pid=Api",      
+        "description": "This is a description 1",
+        "bookLink": "http://www.gutenberg.org/cache/epub/1524/pg1524.html"
+    },
+    {
+        "title": "The Tragedie of Macbeth", 
+        "thumbnail": "https://tse3.mm.bing.net/th?id=OIP.M185cad254409002e61ccd1045c347ba3H0&pid=Api",
+        "description": "This is a description 1",
+        "bookLink": "http://www.gutenberg.org/cache/epub/2264/pg2264.html"
+      
+    },
+    {
+        "title": "The Tragedy of Julius Caesar", 
+        "thumbnail": "https://tse4.mm.bing.net/th?id=OIP.M8074562e471ebb60ec5613a7da588015o0&pid=Api",      
+        "description": "This is a description 1",
+        "bookLink": "http://www.gutenberg.org/cache/epub/1120/pg1120.html"   
+    },
+    {
+        "title": "The Tempest", 
+        "thumbnail": "https://tse3.mm.bing.net/th?id=OIP.M185cad254409002e61ccd1045c347ba3H0&pid=Api",
+        "description": "This is a description 1",
+        "bookLink": "https://www.gutenberg.org/files/23042/23042-h/23042-h.htm"
+    },
+    {
+        "title": "A Midsummer Night's Dream", 
+        "thumbnail": "https://tse4.mm.bing.net/th?id=OIP.M8074562e471ebb60ec5613a7da588015o0&pid=Api",      
+        "description": "This is a description 1",
+        "bookLink": "http://www.gutenberg.org/cache/epub/2242/pg2242.html"    
+    },
+    {
+        "title": "The Tragedie of Othello, the Moore of Venice", 
+        "thumbnail": "https://tse3.mm.bing.net/th?id=OIP.M185cad254409002e61ccd1045c347ba3H0&pid=Api",
+        "description": "This is a description 1",
+        "bookLink": "http://www.gutenberg.org/cache/epub/2267/pg2267.html"
+    },
+    {
+        "title": "The Merchant of Venice", 
+        "thumbnail": "https://tse4.mm.bing.net/th?id=OIP.M8074562e471ebb60ec5613a7da588015o0&pid=Api",      
+        "description": "This is a description 1",
+        "bookLink": "http://www.gutenberg.org/cache/epub/2243/pg2243.html"    
+    },
+    {
+        "title": "Twelfth Night; or, What You Will", 
+        "thumbnail": "https://tse3.mm.bing.net/th?id=OIP.M185cad254409002e61ccd1045c347ba3H0&pid=Api",
+        "description": "This is a description 1",
+        "bookLink": "http://www.gutenberg.org/cache/epub/1526/pg1526.html"
+    },
+    {
+        "title": "The Tragedy of King Lear", 
+        "thumbnail": "https://tse4.mm.bing.net/th?id=OIP.M8074562e471ebb60ec5613a7da588015o0&pid=Api",      
+        "description": "This is a description 1",
+        "bookLink": "http://www.gutenberg.org/cache/epub/1128/pg1128.html"    
+    }
+]

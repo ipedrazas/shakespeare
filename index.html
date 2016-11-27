@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags always come first -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" crossorigin="anonymous">
+<link href="https://fonts.googleapis.com/css?family=Kaushan+Script|Tangerine" rel="stylesheet">
+
+  </head>
+  <body>
+    <h1>William Shakespeare</h1>
+    <h2>26 April 1564 – 23 April 1616</h2>
+    <h3>
+      <em class="firstLetter">W</em>illiam Shakespeare,  was an English poet, playwright, and actor, widely regarded as the greatest writer in the English language 
+      and the world's pre-eminent dramatist. He is often called England's national poet, and the "Bard of Avon". His extant works, including collaborations, 
+      consist of approximately 38 plays, 154 sonnets, two long narrative poems, and a few other verses, 
+      some of uncertain authorship.
+    </h3>
+
+    
+
+<div class="card-deck-wrapper">
+  <div class="card-deck" id="novels">
+  </div> 
+</div>
+    <!-- jQuery first, then Tether, then Bootstrap JS. -->
+    <script src="assets/js/jquery.min.js" crossorigin="anonymous"></script>
+    <script src="assets/js/tether.min.js" crossorigin="anonymous"></script>
+    <script src="assets/js/bootstrap.min.js" crossorigin="anonymous"></script>
+    <script src="assets/js/app.js" crossorigin="anonymous"></script>
+    <script src="assets/js/jsrender.min.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="assets/css/app.css" crossorigin="anonymous">
+
+    <script id="cardTemplate" type="text/x-jsrender">
+        <div class="card" style="width: 296;">
+        <img class="card-img-top" src="{{:thumbnail}}" alt="Card image cap" width="300">
+        <div class="card-block" style="width: 300px;">
+            <h4 class="card-title">{{:title}}</h4>
+            <p class="card-text">{{:description}}.</p>
+            <a href="{{:bookLink}}" target="_blank" class="btn btn-primary">Read Book</a>
+        </div>
+        </div>
+    </script>
+
+
+  </body>
+</html>
